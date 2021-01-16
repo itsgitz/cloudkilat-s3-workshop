@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.828.0"
+  },
+  "name": "cloudkilat-s3-workshop",
+  "description": "A simple Node.js application illustrating usage of the AWS SDK for Node.js.",
+  "version": "1.0.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anggit M Ginanjar",
+  "license": "ISC"
+}
