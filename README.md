@@ -1,8 +1,8 @@
 # Installation
-npm install
+`$ npm install`
 
 # Usage
-node app.js
+`$ node app.js`
 
 # Run
 Access http://localhost:8000
