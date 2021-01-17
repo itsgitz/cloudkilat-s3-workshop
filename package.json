@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.828.0"
+    "aws-sdk": "^2.828.0",
+    "uuid": "^8.3.2"
   },
   "name": "cloudkilat-s3-workshop",
   "description": "A simple Node.js application illustrating usage of the AWS SDK for Node.js.",
